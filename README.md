@@ -1,1 +1,3 @@
 # Pizza-sales-revenue-analysis-
+I utilized Excel to cleanse the data before loading it into PostgreSQL. Using SQL queries involving functions like CAST, SUM, DISTINCT, GROUP BY, WHERE, and datetime functions, I extracted insights and KPIs. These queries included subqueries to derive specific information necessary for analysis and decision-making.
+After importing the data into Jupyter Notebook, I conducted exploratory data analysis (EDA). I compared the KPIs obtained from SQL queries with those derived using Pandas and NumPy. Using Matplotlib, I visualized the insights through charts and bar graphs, facilitating a comprehensive comparison between the SQL-derived KPIs and those calculated using Python libraries.
